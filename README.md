@@ -1,4 +1,5 @@
-# COVID19_interventions
+# What works against the spread of COVID-19?
+
 Data analyses on Non-Pharmaceutical Interventions (NPIs) around COVID19
 
 Results and story published on medium.com: [link](https://medium.com/@henrike.steimer/what-works-against-the-spread-of-covid-19-c0ecd4888386) to blog post.
